@@ -1,48 +1,34 @@
 * header
-  * h3: Fall 2015
-  * h1: Design + Code 01
+  * img
+  * h3: DAPHNE CHAN
+  * h2: ICP New Media Narrtives 2016
+  * p: Artist, creative business coach,
+social media strategist and 
+photographer of Transparency: 
+The Gender Identity Project
+  * a link url: daphnechanphoto.com
+  * a link url: github.com/daphnechan
 
 * section
-  * h3: International Center of Photography
-  * address: New Media Narratives Program 1114 Sixth Avenue New York, NY
-  * p: A hands-on, introductory course where students learn to code. Students learn html &amp; css to build websites from scratch using Git and GitHub as an integral part of their workflow.
+  * p: Daphne Chan is a Canadian artist and photographer. Born in 
+Montreal, she obtained a BA in Psychology and a LL.B/BCL
+in Law. 
+
+  * p: Her work explores identity and how it reveals itself through
+gender, culture, sexuality and body image. She has been 
+featured in many group and solo exhibitions internationally and
+acclaimed for her fine art nude portraiture.
+
+  * p: Daphne is based in New York city and available for private
+commissions worldwide.
 
 * section
-  * h2: Students
-  * ul
-    * li
-      * img
-      * h3: Cyndie Burkhardt
-      * p: Learn more
-    * li
-      * img
-      * h3: Mengwen Cao
-      * p: Learn more
-    * li
-      * img
-      * h3: Daphne Chan
-      * p: Learn more
-    * li
-      * img
-      * h3: Evan Cisneros
-      * p: Learn more
-    * li
-      * img
-      * h3: Miles Goscha
-      * p: Learn more
-    * li
-      * img
-      * h3: Caitlin Healy
-      * p: Learn more
-    * li
-      * img
-      * h3: Renan Meira
-      * p: Learn more
-    * li
-      * img
-      * h3: Susan Sawyers
-      * p: Learn more
-    * li
-      * img
-      * h3: Muyi Xiao
-      * p: Learn more
+* a link info@daphnechanphoto.com
+* br 917-361-8467
+
+* section
+  * img
+  * img
+   
+* footer
+ 
